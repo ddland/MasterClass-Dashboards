@@ -1,6 +1,8 @@
 # MasterClass-Dashboards
 Scripts and some background information for the Masterclass Dashboards held during the Data-Driven Duurzaam in Manufacturing meeting [20240228]
 
+The presentation, with some extra slides which give some hints about making a dashboard is here also [available](dashboard.pdf).
+
 ## circuitpython
 Code running on the [picopi](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html). All the files in this folder are already present on the device. At the school nothing has to be done.
 
